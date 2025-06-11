@@ -1,0 +1,18 @@
+{
+  "chainId": 101,
+  "address": "AiqBwm3CpoCM6rmsR9BwM6zNXns4YVwjkvpXKNdCmoon",
+  "symbol": "VDNA",
+  "name": "VERRA DNA",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/WINMARHOLD/token-list/main/assets/mainnet/AiqBwm3CpoCM6rmsR9BwM6zNXns4YVwjkvpXKNdCmoon.png",
+  "tags": [
+    "utility",
+    "carbon-credit",
+    "green",
+    "moonit"
+  ],
+  "extensions": {
+    "website": "https://verradna.com/",
+    "description": "VERRA DNA (VDNA) is a Solana-based token supporting carbon credits and green energy initiatives aligned with UNASDG."
+  }
+}
